@@ -23,11 +23,11 @@
 
 ```
 先启动后端项目
-cd boss-chat-client
+cd boss-chat-server
 npm install 
 npm start
-在启动后端项目
-cd boss-chat-server
+再启动前端项目
+cd boss-chat-client
 npm install
 npm start
 ```
