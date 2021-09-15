@@ -17,7 +17,7 @@
 
 ## 3. 前端路由
 
-
+![image](/BOSS-Chat/imgs/1.jpg)
 
 ## 4. 项目启动
 
@@ -33,6 +33,31 @@ npm start
 ```
 
 ## 5. 项目预览
+
+登陆 / 注册
+
+![image](/BOSS-Chat/imgs/2.jpg)
+
+
+个人信息完善
+
+![image](/BOSS-Chat/imgs/3.jpg)
+
+用户列表
+
+![image](/BOSS-Chat/imgs/4.jpg)
+
+消息列表
+
+![image](/BOSS-Chat/imgs/5.jpg)
+
+聊天页面
+
+![image](/BOSS-Chat/imgs/6.jpg)
+
+
+
+
 
 
 
